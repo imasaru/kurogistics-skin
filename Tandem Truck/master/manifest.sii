@@ -1,0 +1,17 @@
+SiiNunit
+{
+mod_package : .manifest {
+
+   package_version: "1.0"
+
+   display_name: "BDF Tandem KuroGistics Skin"
+
+   author: "Kurobashi [JPN]"
+   
+   category[]: "truck"
+
+   icon: "tandemskin.jpg"
+
+   description_file: "desc.txt"
+}
+}

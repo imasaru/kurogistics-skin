@@ -1,0 +1,5 @@
+This is a reskin of the "Coolliner for tandems" trailer made by Capital/Flemming for the KuroGistics company. 
+
+v 1.0
+
+Credits: Kurobashi [JPN] (skin); Capital, Flemming V, SCS (original trailer)

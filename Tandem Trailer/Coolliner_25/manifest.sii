@@ -1,0 +1,17 @@
+SiiNunit
+{
+mod_package : .manifest {
+
+   package_version: "1.0"
+
+   display_name: "KuroGistics Reskin - Coolliner Nordic 25"
+
+   author: "Capital, Matdom1988, Flemming V, SCS"
+   
+   category[]: "trailer"
+
+   icon: "bycapital.jpg"
+
+   description_file: "desc.txt"
+}
+}
