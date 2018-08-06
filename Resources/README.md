@@ -1,0 +1,1 @@
+This folder may contain content that is not my own.
